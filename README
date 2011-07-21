@@ -1,0 +1,15 @@
+This is my first refinerycms instance. 
+
+It was created on my client, an older pc running ubuntu 10.10
+
+I used ubuntu 10.10 because I found directions on the internet for deploying ruby 1.92 with rails 3 when I failed to do so in other linux Operating Systems which I prefer.
+
+I used a methodology which used rvm which created a list of dependencies which I installed as well.
+
+I also installed imagemagick because the directions for installing refinerycms included that.
+
+I don't think any of that is in the application instance of refinerycms that gets uploaded.
+
+I have to hope that its already installed or that there is a way to configure the server to run this application.
+  
+The goal is to make this application work at engineyard and perhaps heroku or another server.
